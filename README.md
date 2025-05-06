@@ -1,2 +1,2 @@
 # Bateria-JS
-Project deloped during B7WEB's JavaScript course
+Project developed during B7WEB's JavaScript course
